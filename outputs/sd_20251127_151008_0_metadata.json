@@ -1,0 +1,12 @@
+{
+  "png_path": "outputs\\sd_20251127_151008_0.png",
+  "jpg_path": "outputs\\sd_20251127_151008_0.jpg",
+  "created_at": "2025-11-27T15:10:10.208655",
+  "prompt": "a futuristic city at sunset with flying cars",
+  "full_prompt": "a futuristic city at sunset with flying cars, highly detailed, 8k, ultra realistic",
+  "negative_prompt": "blurry, low quality, distorted face, extra fingers, bad anatomy",
+  "style": "photorealistic",
+  "guidance_scale": 7.5,
+  "num_inference_steps": 30,
+  "device": "cpu"
+}
